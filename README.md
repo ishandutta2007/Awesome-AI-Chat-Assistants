@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[ChatGPT (OpenAI)](https://chatgpt.com/)**  
-
-  Leading consumer and enterprise conversational AI platform with GPT models, voice, tools, and memory features.
-
-
-
-- **[Claude Pro (Anthropic)](https://claude.ai/)**  
-
-  Advanced AI assistant focused on helpful, honest, and harmless conversations with strong long-context and coding capabilities.
-
-
-
-- **[Perplexity Pro](https://www.perplexity.ai/)**  
-
-  AI-powered answer engine and chat assistant that combines search with conversational responses and citations.
-
-
-
-- **[Google Gemini Advanced](https://gemini.google.com/)**  
-
-  Google’s premium conversational AI offering integrated with Google services and multimodal capabilities.
-
-
-
-- **[Microsoft Copilot Pro](https://copilot.microsoft.com/)**  
-
-  Microsoft’s AI assistant integrated across Windows, Office, Edge, and Bing with productivity-focused features.
-
-
-
-- **[Poe (Quora)](https://poe.com/)**  
-
-  Multi-bot chat platform that aggregates many frontier models and custom bots in a single interface.
-
-
-
-- **[HuggingChat](https://huggingface.co/chat)**  
-
-  Hugging Face’s open-model chat interface offering free access to a rotating selection of open LLMs.
-
-
-
-- **[Pi.ai (Inflection)](https://pi.ai/)**  
-
-  Personal AI companion focused on natural, supportive conversation and everyday assistance.
-
-
-
-- **[You.com Pro](https://you.com/)**  
-
-  AI search and chat platform combining web results with conversational answers and productivity tools.
-
-
-
-- **[Grok (xAI)](https://x.ai/)** / Grok Cloud  
-
-  xAI’s conversational AI with real-time knowledge and a distinctive personality, available via apps and API.
+| Platform | Provider | Company Scale (Market Cap / Valuation / Revenue) | Starting Pricing (Paid Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Copilot Pro](https://copilot.microsoft.com/)** | Microsoft | ~$3.1T Market Cap ($245B+ Annual Revenue) | $20.00 / month | Free forever: Standard web search chat & basic Copilot features; limited to 30 turns per conversation and up to 15 daily boosts for DALL-E image generation (peak-hour access to GPT-4/Turbo throttled). | Microsoft’s AI assistant integrated across Windows, Office, Edge, and Bing with productivity-focused features. |
+| **[Google Gemini Advanced](https://gemini.google.com/)** | Alphabet (Google) | ~$2.0T Market Cap ($307B+ Annual Revenue) | $19.99 / month (Google One AI Premium; includes 1-month free trial) | Free forever: Unlimited standard conversations with Gemini 1.5 Flash; access to Gemini 1.5 Pro capped at approximately 5 requests per minute and 50 requests per day. | Google’s premium conversational AI offering integrated with Google services and multimodal capabilities. |
+| **[Claude Pro](https://claude.ai/)** | Anthropic | ~$965B Valuation (~$4.6B+ ARR) | $20.00 / month | Free forever: Variable message limits based on capacity (typically ~30–50 messages per 5-hour window using Claude 3.5 Sonnet / Haiku); resets every 5 hours. | Advanced AI assistant focused on helpful, honest, and harmless conversations with strong long-context and coding capabilities. |
+| **[ChatGPT](https://chatgpt.com/)** | OpenAI | ~$852B Valuation (~$20B+ ARR) | $20.00 / month (Plus) | Free forever: Unlimited chats on GPT-4o mini; GPT-4o capped at ~10–16 messages every 3 hours; up to 2 image generations per day; web browsing and basic memory included. | Leading consumer and enterprise conversational AI platform with GPT models, voice, tools, and memory features. |
+| **[Grok / Grok Cloud](https://x.ai/)** | xAI (SpaceX) | ~$250B Valuation (~$3B+ Run-rate) | $8.00 / month (via X Premium) or $16.00 / month (X Premium+) | Free forever: Limited to 10 queries per 2 hours on Grok 2, and up to 2 image generation requests per day for standard authenticated X accounts. | xAI’s conversational AI with real-time knowledge and a distinctive personality, available via apps and API. |
+| **[Perplexity Pro](https://www.perplexity.ai/)** | Perplexity AI | ~$20B Valuation (~$750M ARR) | $20.00 / month ($200.00 / year) | Free forever: Unlimited standard Quick searches per day; up to 5 Pro (deep/multi-source reasoning) searches every 4 hours. | AI-powered answer engine and chat assistant that combines search with conversational responses and citations. |
+| **[HuggingChat](https://huggingface.co/chat)** | Hugging Face | ~$4.5B Valuation (~$100M ARR) | $9.00 / month (Hugging Face Pro) | Free forever: Web chat access to community open models with a baseline credit allowance of $0.10 / month in inference credits and 3.5 minutes/day of ZeroGPU time. | Hugging Face’s open-model chat interface offering free access to a rotating selection of open LLMs. |
+| **[Pi.ai](https://pi.ai/)** | Inflection AI | ~$4.0B Peak Valuation ($650M Microsoft Licensing) | $0.00 (Consumer web/app is completely free; custom enterprise API pricing) | Free forever: 100% free with unlimited personal conversation, empathetic voice synthesis, and multi-turn context (no paid consumer plan required). | Personal AI companion focused on natural, supportive conversation and everyday assistance. |
+| **[You.com Pro](https://you.com/)** | You.com | ~$1.5B Valuation (~$50M ARR) | $20.00 / month ($15.00 / month billed annually) | Free forever: 100 web search queries/day; consumer chat access includes standard searches and limited to 5 AI mode queries per day. | AI search and chat platform combining web results with conversational answers and productivity tools. |
+| **[Poe](https://poe.com/)** | Quora | ~$500M Valuation (~$100M Revenue) | $4.99 / month (Starter) or $19.99 / month (Standard) | Free forever: 300 daily compute points to spend on basic and multi-provider models (points refill once every 24 hours). | Multi-bot chat platform that aggregates many frontier models and custom bots in a single interface. |
 
 
 
