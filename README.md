@@ -73,6 +73,7 @@ Frontier hosted conversational assistants providing web, mobile, and API-powered
 | **[Pi.ai](https://pi.ai/)** | Inflection AI | ~$4.0B Peak Valuation ($650M Microsoft Licensing) | $0.00 (Consumer web/app is completely free; custom enterprise API pricing) | Free forever: 100% free with unlimited personal conversation, empathetic voice synthesis, and multi-turn context (no paid consumer plan required). | Personal AI companion focused on natural, supportive conversation and everyday assistance. |
 | **[You.com Pro](https://you.com/)** | You.com | ~$1.5B Valuation (~$50M ARR) | $20.00 / month ($15.00 / month billed annually) | Free forever: 100 web search queries/day; consumer chat access includes standard searches and limited to 5 AI mode queries per day. | AI search and chat platform combining web results with conversational answers and productivity tools. |
 | **[Poe](https://poe.com/)** | Quora | ~$500M Valuation (~$100M Revenue) | $4.99 / month (Starter) or $19.99 / month (Standard) | Free forever: 300 daily compute points to spend on basic and multi-provider models (points refill once every 24 hours). | Multi-bot chat platform that aggregates many frontier models and custom bots in a single interface. |
+| **[Whizi](https://whizi.io/)** | Whizi | Independent startup | $15.99 / month (Starter); 30% off the first year of annual plans until Dec 24, 2026 | No free plan; intro trial from $0.99 | One subscription for ChatGPT, Claude, Gemini and other models in the same chat, plus image, video and music generation. Web, iPhone and Android. |
 
 ---
 
